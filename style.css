@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto !important;
+    background-color: #bfbfbf !important;
+}
+
+header {
+    margin: 15px;
+    padding: 25px;
+    background-color: #e9ecef;
+    border-radius: 25px !important;
+}
+
+#vue-app {
+    margin: 15px;
+}
+
+p {
+    
+    padding: 25px;
+    background-color: #e9ecef;
+    border-radius: 15px;
+}
+
+.description {
+    margin: 15px;
+    
+}
+
+.btn {
+    margin-bottom: 15px;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 15px;
+}
